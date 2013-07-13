@@ -11,4 +11,4 @@ src/*.min.js
 *.sln
 *.suo
 *.bat
-
+.DS_Store
